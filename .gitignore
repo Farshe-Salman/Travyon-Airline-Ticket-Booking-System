@@ -1,0 +1,5 @@
+# Ignore JetBrains IDE project folder
+.idea/
+
+# Ignore IntelliJ project files
+*.iml
